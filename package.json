@@ -1,0 +1,28 @@
+{
+  "name": "initials-avatar-generator",
+  "version": "1.5.3",
+  "description": "a random avatar generator base on node and node-imagemagick",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kubal5003/initials-avatar-generator.git"
+  },
+  "keywords": [
+    "avatar",
+    "image",
+    "initials"
+  ],
+  "author": "kubal5003",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.17.0"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "gulp": "^3.8.11",
+    "mocha": "*"
+  }
+}
